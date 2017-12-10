@@ -15,6 +15,9 @@ Included are <strong>configuration experiments</strong> to achieve optimal perfo
 
 Our objective is to get you (the developer) to get up and running quickly with fast, stable, and scalable apps.
 
+   * <a target="_blank" href="https://twitter.com/hashtag/UltiCoder?src=hash">#Ulticoder on Twitter</a>
+   <br /><br />
+
 ## Ultimate Software
 
 Ultimate Software runs a private cloud (SaaS service) to provide web-based software for 
@@ -52,7 +55,7 @@ configured</a> to use files created at
 
 The "look and feel" of this site is based on the 
 <a target="_blank" href="https://github.com/mmistakes/minimal-mistakes/">
-"Minimal Mistakes" template</a> initiated using
+"Minimal Mistakes" responsive template</a> initiated using
 <a target="_blank" href="https://github.com/mmistakes/minimal-mistakes/issues/280#event-848084392">
 this script</a>, then uploaded to the
 <a target="_blank" href="https://github.com/ulticoder/ulticoder.github.io">ulticoder.github.io project on GitHub</a>.
@@ -81,5 +84,13 @@ Graphics files shown on this site is displayed from URLs obtained from dragging 
 
 Within the `_posts` folder, each markdown file begins with yaml header to be read by Jekyll.
 
-Jekyll also processes the index.html file at the root folder.
+Jekyll does not process the index.html file at the root folder.
+
+
+## History
+
+2014
+https://www.facebook.com/events/806940856029174
+
+https://www.facebook.com/events/806940856029174/?active_tab=discussion
 
