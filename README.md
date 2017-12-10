@@ -3,7 +3,8 @@ using assets open sourced by Ultimate Software under the
 <a target="_blank" href="https://github.com/UltimateSoftware/">
 https://github.com/UltimateSoftware/</a> GitHub account.
 
-This repository is an adjunct to that, to provide learning about how to do things
+This repository is an adjunct to that repository, 
+to provide examples for learning about how to do things
 and configuration experiments related to performance.
 
 ## Ultimate Software
