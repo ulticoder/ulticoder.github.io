@@ -1,33 +1,47 @@
-The purpose of this website is to provide a people-oriented workspace for 
-using assets open sourced by Ultimate Software under the 
+The purpose of this website (at ulticoder.com)
+is to provide an informal people-oriented workspace related to software open sourced by 
+<a target="_blank" href="https://ultimateSoftware.com/">
+UltimateSoftware.com</a> at its<br />
 <a target="_blank" href="https://github.com/UltimateSoftware/">
-https://github.com/UltimateSoftware/</a> GitHub account.
+https://github.com/UltimateSoftware/</a> GitHub account
+and provided at the Ulimate Developer Network ("UDN") website
+<a target="_blank" href="https://connect.ultipro.com/developer">
+https://connect.ultipro.com/developer</a>.
 
-This repository is an adjunct to repositories there, 
-to provide examples for learning about how to create and test programs using Ultimate's stuff.
-Included here are configuration experiments related to performance.
+Repositories under the <a target="_blank" href="https://github.com/ulticoder/">
+"ulticoder" GitHub account</a> 
+aims to provide examples for learning about how to create and test client programs using Ultimate's stuff.
+Included are <strong>configuration experiments</strong> to achieve optimal performance and capacity.
 
-Our objective is to get you (the developer) to get up and running quickly with fast, stable, and useful apps.
-
-More than that, we hope that you'll consider joining as an employee at Ultimate Software,
-which has been rated among the top 10 best places to work among all American companies.
-
+Our objective is to get you (the developer) to get up and running quickly with fast, stable, and scalable apps.
 
 ## Ultimate Software
 
 Ultimate Software runs a private cloud (SaaS service) to provide web-based software for 
 "HCM" (Human Capital Management) such as payroll.
 
-There are many competitors to Ultimate Software.
+   * <a target="_blank" href="https://twitter.com/ultimatehcm">@ultimatehcm on Twitter</a>
+   <br /><br />
 
-Ulimate Software is at the forefront of applying Machine Learning, Artificial Intelligence, and 
-microservices based on Java Spring Boot.
-
-This site is mentioned in Ultimate's
+This ulticoder.com website is mentioned in Ultimate's technical talent recruiting site<br />
 <a target="_blank" href="https://github.com/UltimateSoftware/ultimatesoftware.github.io">
-https://github.com/UltimateSoftware/ultimatesoftware.github.io</a>
+https://github.com/UltimateSoftware/ultimatesoftware.github.io</a>, which states:
 
-"We're creating engaging software that helps people simplify their work lives."
+      "We're creating engaging software that helps people simplify their work lives."
+
+There are many competitors to the company.
+
+But Ultimate Software has been rated among the top 10 best places to work among all American companies.
+
+Base on publicly available news and job postings, Ulimate Software is at the forefront of applying these technologies:
+
+   * Machine Learning, 
+   * Natural Language Processing (NLP) Artificial Intelligence
+   * microservices based on Java Spring Boot with Pivotal Cloud Foundry.
+
+   * Analytics dashboards through <a target="_blank" href="https://www.ibm.com/products/cognos-analytics/">
+   IBM Cognos Analytics</a>, which provides easy self-service to visualize data in a variety of formats.
+
 
 ## This website
 
@@ -43,12 +57,25 @@ The "look and feel" of this site is based on the
 this script</a>, then uploaded to the
 <a target="_blank" href="https://github.com/ulticoder/ulticoder.github.io">ulticoder.github.io project on GitHub</a>.
 
-HTML for this site is generated from GitHub Flavored Markdown text stored within the `_posts` folder within that repository.
+HTML for this site is generated from GitHub Flavored Markdown text stored within the `_posts` folder within that repository. 
 
 The HTML is generated twice. Locally, markdown text is generated into HTML by Jekyll which runs under Ruby.
-HTML is generated into the `_site` folder.
-When uploaded using a Git client, GitHub automatically performs the same processing.
+A local configuration file overlays the production configuration file, so this command is used to display the website locally: 
+
+   <pre><strong>
+   jekyll serve
+   </strong></pre>
+
+Changes to markdown files are automatically re-generated into HTML within the `_site` folder.
+When uploaded using a local Git client, GitHub automatically performs the same processing.
 This is why the local `_site` folder is specified in the `.gitignore` file to prevent upload to GitHub.
 
-For now, graphics files shown on this site is displayed from URLs obtained from dragging them onto a GitHub Issues page.
+Use of GitHub for both storing code and hosting provides all the benefits of distributed version control
+(being able to fall back to any point in the past, knowing what was changed when and by whom, etc.).
+GitHub has the fastest and most robust web hosting facility on earth.
+Graphics files shown on this site is displayed from URLs obtained from dragging them onto a GitHub Issues page.
+
+<!-- https://www.mediaagility.com/google-cloud-source-repository-vs-github-vs-bitbucket-comparative-analysis/ -->
+
+Within the `_posts` folder, each markdown file begins with yaml header to be read by Jekyll.
 
