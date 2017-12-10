@@ -20,18 +20,19 @@ Source code for this "ulticoder.com" domain is
 configured</a> to use files created for
 <a target="_blank" href="https://ulticoder.github.io">ulticoder.github.io</a>.
 
-The layout of this site is generated from the 
+The "look and feel" of this site is based on the 
 <a target="_blank" href="https://github.com/mmistakes/minimal-mistakes/">
 "Minimal Mistakes" template</a> initiated using
 <a target="_blank" href="https://github.com/mmistakes/minimal-mistakes/issues/280#event-848084392">
-this script</a> then uploaded to the
+this script</a>, then uploaded to the
 <a target="_blank" href="https://github.com/ulticoder/ulticoder.github.io">ulticoder.github.io project on GitHub</a>.
 
-HTML for this site is generated from GitHub Flavored Markdown text stored within that repository.
+HTML for this site is generated from GitHub Flavored Markdown text stored within the `_posts` folder withinthat repository.
 
 The HTML is generated twice. Locally, markdown text is generated into HTML by Jekyll which runs under Ruby.
-HTML is generated into the "_site" folder.
+HTML is generated into the `_site` folder.
 When uploaded using a Git client, GitHub automatically performs the same processing.
+This is why the local `_site` folder is specified in the `.gitignore` file to prevent upload to GitHub.
 
 For now, graphics files shown on this site is displayed from URLs obtained from dragging them onto a GitHub Issues page.
 
