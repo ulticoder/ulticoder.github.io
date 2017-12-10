@@ -3,21 +3,31 @@ using assets open sourced by Ultimate Software under the
 <a target="_blank" href="https://github.com/UltimateSoftware/">
 https://github.com/UltimateSoftware/</a> GitHub account.
 
-This repository is an adjunct to that repository, 
-to provide examples for learning about how to do things
-and configuration experiments related to performance.
+This repository is an adjunct to repositories there, 
+to provide examples for learning about how to create and test programs using Ultimate's stuff.
+Included here are configuration experiments related to performance.
+
+Our objective is to get you (the developer) to get up and running quickly with fast, stable, and useful apps.
+
+More than that, we hope that you'll consider joining as an employee at Ultimate Software,
+which has been rated among the top 10 best places to work among all American companies.
+
 
 ## Ultimate Software
 
-Ultimate Software provides web-based software for "HCM" (Human Capital Management),
-such as payroll.
+Ultimate Software runs a private cloud (SaaS service) to provide web-based software for 
+"HCM" (Human Capital Management) such as payroll.
 
-Ulimate Software is at the forefront in its industry for applying Machine Learning, Artificial Intelligence, and 
+There are many competitors to Ultimate Software.
+
+Ulimate Software is at the forefront of applying Machine Learning, Artificial Intelligence, and 
 microservices based on Java Spring Boot.
 
 This site is mentioned in Ultimate's
 <a target="_blank" href="https://github.com/UltimateSoftware/ultimatesoftware.github.io">
 https://github.com/UltimateSoftware/ultimatesoftware.github.io</a>
+
+"We're creating engaging software that helps people simplify their work lives."
 
 ## This website
 
