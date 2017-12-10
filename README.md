@@ -33,6 +33,10 @@ https://github.com/UltimateSoftware/ultimatesoftware.github.io</a>, which states
 
       "We're creating engaging software that helps people simplify their work lives."
 
+   * Xander artificial intelligence platform
+   * UltiPro Connect partner ecosystem and integration hub to the HR community
+   <br /><br />
+
 There are many competitors to the company.
 
 But Ultimate Software has been rated among the top 10 best places to work among all American companies.
@@ -40,12 +44,12 @@ But Ultimate Software has been rated among the top 10 best places to work among 
 Base on publicly available news and job postings, Ulimate Software is at the forefront of applying these technologies:
 
    * Machine Learning, 
-   * Natural Language Processing (NLP) Artificial Intelligence
+   * <a target="_blank" href="https://www.fool.com/investing/2017/11/03/ultimate-software-moves-forward-with-ai-platform.aspx">Natural Language Processing (NLP) Artificial Intelligence</a>
    * microservices based on Java Spring Boot with Pivotal Cloud Foundry.
-
    * Analytics dashboards through <a target="_blank" href="https://www.ibm.com/products/cognos-analytics/">
    IBM Cognos Analytics</a>, which provides easy self-service to visualize data in a variety of formats.
-   * JMeter, LoadRunner,
+   * JMeter, LoadRunner
+
 
 ## This website
 
