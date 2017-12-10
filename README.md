@@ -13,9 +13,10 @@ Repositories under the <a target="_blank" href="https://github.com/ulticoder/">
 aims to provide examples for learning about how to create and test client programs using Ultimate's stuff.
 Included are <strong>configuration experiments</strong> to achieve optimal performance and capacity.
 
-Our objective is to get you (the developer) to get up and running quickly with fast, stable, and scalable apps.
+Our objective is to get you (the developer) up and running quickly with gorgeous, fast, stable, and scalable apps.
 
    * <a target="_blank" href="https://twitter.com/hashtag/UltiCoder?src=hash">#Ulticoder on Twitter</a>
+   * <a target="_blank" href="https://www.youtube.com/user/ulticoder">Youtube channel</a>
    <br /><br />
 
 ## Ultimate Software
