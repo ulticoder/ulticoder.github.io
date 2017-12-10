@@ -41,7 +41,7 @@ Base on publicly available news and job postings, Ulimate Software is at the for
 
    * Analytics dashboards through <a target="_blank" href="https://www.ibm.com/products/cognos-analytics/">
    IBM Cognos Analytics</a>, which provides easy self-service to visualize data in a variety of formats.
-
+   * JMeter, LoadRunner,
 
 ## This website
 
@@ -77,5 +77,9 @@ Graphics files shown on this site is displayed from URLs obtained from dragging 
 
 <!-- https://www.mediaagility.com/google-cloud-source-repository-vs-github-vs-bitbucket-comparative-analysis/ -->
 
+## Markdown
+
 Within the `_posts` folder, each markdown file begins with yaml header to be read by Jekyll.
+
+Jekyll also processes the index.html file at the root folder.
 
