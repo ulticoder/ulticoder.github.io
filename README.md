@@ -1,5 +1,10 @@
 The purpose of this website is to provide a people-oriented workspace for 
-using assets open sourced by Ultimate Software.
+using assets open sourced by Ultimate Software under the 
+<a target="_blank" href="https://github.com/UltimateSoftware/">
+https://github.com/UltimateSoftware/</a> GitHub account.
+
+This repository is an adjunct to that, to provide learning about how to do things
+and configuration experiments related to performance.
 
 ## Ultimate Software
 
@@ -17,7 +22,7 @@ https://github.com/UltimateSoftware/ultimatesoftware.github.io</a>
 
 Source code for this "ulticoder.com" domain is 
 <a target="_blank" href="https://help.github.com/articles/using-a-custom-domain-with-github-pages/">
-configured</a> to use files created for
+configured</a> to use files created at
 <a target="_blank" href="https://ulticoder.github.io">ulticoder.github.io</a>.
 
 The "look and feel" of this site is based on the 
@@ -27,7 +32,7 @@ The "look and feel" of this site is based on the
 this script</a>, then uploaded to the
 <a target="_blank" href="https://github.com/ulticoder/ulticoder.github.io">ulticoder.github.io project on GitHub</a>.
 
-HTML for this site is generated from GitHub Flavored Markdown text stored within the `_posts` folder withinthat repository.
+HTML for this site is generated from GitHub Flavored Markdown text stored within the `_posts` folder within that repository.
 
 The HTML is generated twice. Locally, markdown text is generated into HTML by Jekyll which runs under Ruby.
 HTML is generated into the `_site` folder.
