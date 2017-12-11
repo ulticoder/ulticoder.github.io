@@ -17,6 +17,7 @@ Our objective is to get you (the developer) up and running quickly with gorgeous
 
    * <a target="_blank" href="https://twitter.com/hashtag/UltiCoder?src=hash">#Ulticoder on Twitter</a>
    * <a target="_blank" href="https://www.youtube.com/user/ulticoder">Youtube channel</a>
+   * <a target="_blank" href="https://www.linkedin.com/company/166574/">LinkedIn company page</a>
    <br /><br />
 
 ## Ultimate Software
